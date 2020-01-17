@@ -20,7 +20,7 @@ If you use this code, please cite our paper:
 * This code has been tested on Ubuntu 16.04 with Python 3.6 and PyTorch 0.4.
 * Install [PyTorch and torchvision](http://pytorch.org/).
 * Install [torchnet](https://github.com/pytorch/tnt) by running `pip install git+https://github.com/pytorch/tnt.git@master`.
-* Install the protonets package by running `python setup.py install` or `python setup.py develop`.
+~~* Install the protonets package by running `python setup.py install` or `python setup.py develop`.~~
 
 ### Set up the Omniglot dataset
 
